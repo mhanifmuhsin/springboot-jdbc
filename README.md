@@ -12,4 +12,4 @@ How to run it :
 1. git clone https://github.com/mhanifmuhsin/springboot-jdbc.git
 2. Open file
 3. No connection configuration is needed 
-3. Run SpringbootJdbcApplication.java
+4. Run SpringbootJdbcApplication.java
